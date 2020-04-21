@@ -81,7 +81,7 @@
         },
         {
             "type": "galery",
-            "icon": "fas fa-trophy fa-2x animated infinite pulse",
+            "icon": "far fa-lightbulb fa-2x animated infinite pulse",
             "name": "skills",
             "data": [
                 {
@@ -219,3 +219,4 @@
         }
     ]
 }
+[]
